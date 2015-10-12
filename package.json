@@ -1,0 +1,25 @@
+{
+  "name": "flexicon",
+  "version": "0.0.0",
+  "homepage": "https://github.com/blivesta/flexicon",
+  "description": "A Preview and Source Code of SVG Icons.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:blivesta/flexicon.git"
+  },
+  "author": {
+    "name": "blivesta",
+    "url": "http://www.blivesta.com/"
+  },
+  "license": "MIT",
+  "scripts": {
+    "serve":"http-server ./dist -o",
+    "build":"node ./flexicon.js",
+    "start": "npm run build && npm run serve",
+    "deploy": "git subtree push --prefix dist origin gh-pages"
+  },
+  "devDependencies": {
+    "flexicon-generator": "^0.0.1",
+    "http-server": "^0.8.5"
+  }
+}

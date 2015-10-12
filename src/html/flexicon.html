@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flexicon: <%= options.name %></title>
+
+  <meta charset="utf-8">
+  <meta property="og:title" content="Flexicon" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://git.blivesta.com/flexicon/" />
+  <meta property="og:image" content="http://blivesta.com/ico/blivesta-300.png" />
+  <meta property="og:site_name"  content="Flexicon" />
+  <meta property="og:description" content="A Preview and Source Code of SVG Icons." />
+  <meta property="fb:app_id" content="1001771893195804" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@blivesta" />
+  <meta name="twitter:creator" content="@blivesta" />
+
+  <link rel="stylesheet" href="https://cdn.rawgit.com/sircus/sircus/master/dist/sircus.min.css" charset="utf-8" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/alertify.js/0.3.11/alertify.core.min.css" charset="utf-8" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/alertify.js/0.3.11/alertify.default.min.css" charset="utf-8" />
+  <style media="screen">
+  <%= cssInject %>
+  /* flexicon-generator default template style */
+  body {
+    counter-reset: Card;
+    margin-top:0;
+  }
+  h1 {
+    font-size: 4rem;
+  }
+  a,
+  .Button {
+    color:#000;
+  }
+  .Button:hover,
+  .Button:focus {
+    background-color:transparent;
+    text-decoration: underline;
+  }
+  .Card h4:before {
+    content: counter(Card) ': ';
+    counter-increment: Card;
+  }
+
+  /* alertify */
+  .alertify-logs {
+    font-weight: bold;
+  }
+  </style>
+
+  <!-- Google analytics -->
+  <script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-50883754-1', 'blivesta.com');ga('require', 'displayfeatures');ga('send', 'pageview');
+  </script>
+</head>
+<body>
+<%= svgInject %>
+
+<header class="t-mbXl t-gutter">
+  <div class="t-clear" style="border-bottom:3px solid #000;">
+    <div class="t-pullLeft">
+      <h1 class="t-mb0">Flexicon</h1>
+      <p class="t-mbXs">A Preview and Source Code of SVG Icons.</p>
+    </div>
+  </div>
+</header>
+
+
+<main>
+  <section class="Grid">
+    <% _.each(icons, function(icon) { %>
+    <div class="Card Grid-col t-widthHalf t-sm-width1of4 t-lg-width1of5 t-mbXl">
+      <div class="t-center t-width1of3">
+        <svg width="64" height="64" class="<%= options.prefix %> <%= options.prefix %>--full"><use xlink:href="#<%= options.prefix %>-<%= icon.name %>" /></svg>
+      </div>
+      <h4 class="t-pbTn t-mbTn" style="border-bottom:2px solid #000"><%= icon.name %></h4>
+      <button class="js-clip Button Button--sm Button--reset" data-clipboard-text="<svg viewBox='<%= icon.viewBox %>' xmlns='http://www.w3.org/2000/svg'><% _.each(icon.path, function(path) { %><path d='<%= path.d %>'/><% }) %></svg>">svg</button>
+      <button class="js-clip Button Button--sm Button--reset" data-clipboard-text="<svg class='<%= options.prefix %>'><use xlink:href='#<%= options.prefix %>-<%= icon.name %>' /></svg>">sprite</button>
+      <button class="js-clip Button Button--sm Button--reset" data-clipboard-text="<img src='<%= icon.base64 %>'/>">img</button>
+      <button class="js-clip Button Button--sm Button--reset" data-clipboard-text="url('<%= icon.base64 %>');">css</button>
+    </div>
+    <% }) %>
+  </section>
+</main>
+
+<footer class="t-mbXl t-gutter">
+  <div style="border-top:2px solid #000;">
+    <ul class="ListInline t-mtMd">
+      <li>
+        <small>
+          Code Licensed Under The MIT.
+        </small>
+      </li>
+      <li>
+        <small>
+          Created by
+          <svg width="64" height="64" class="<%= options.prefix %>">
+            <use xlink:href="#<%= options.prefix %>-blivesta" />
+          </svg>
+          <a href="http://www.blivesta.com" target="_blank">
+            blivesta
+          </a>
+        </small>
+      </li>
+      <li>
+        <a href="https://github.com/blivesta/flexicon" target="_blank">
+          <small>GitHub</small>
+        </a>
+      </li>
+    </ul>
+  </div>
+</footer>
+
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/alertify.js/0.3.11/alertify.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/zeroclipboard/2.1.5/ZeroClipboard.min.js"></script>
+<script type="text/javascript">
+  var btn = document.querySelectorAll('.js-clip');
+  var clip = new ZeroClipboard(btn);
+  clip.on('aftercopy', function(event) {
+    alertify.log('Code Cliped!').show();
+  });
+</script>
+</body>
+</html>

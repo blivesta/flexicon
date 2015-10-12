@@ -1,0 +1,10 @@
+{
+  "name": "heart",
+  "viewBox": "0 0 64 64",
+  "path": [
+    {
+      "d": "M32 60.334c-62.43-34.054-17.28-76.393 0-47.88 17.277-28.512 62.434 13.826 0 47.88z"
+    }
+  ],
+  "base64": "data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjY0IiB2aWV3Qm94PSIwIDAgNjQgNjQiIHdpZHRoPSI2NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMzIgNjAuMzM0Yy02Mi40My0zNC4wNTQtMTcuMjgtNzYuMzkzIDAtNDcuODggMTcuMjc3LTI4LjUxMiA2Mi40MzQgMTMuODI2IDAgNDcuODh6Ii8+PC9zdmc+"
+}
