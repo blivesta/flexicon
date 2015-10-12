@@ -1,0 +1,47 @@
+.fi {
+  display:inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: text-bottom;
+}
+
+.fi--2x,
+.fi--3x,
+.fi--4x,
+.fi--full {
+  vertical-align:middle;
+}
+
+.fi--2x {
+  width: 2em;
+  height: 2em;
+}
+
+.fi--3x {
+  width: 3em;
+  height: 3em;
+}
+
+.fi--4x {
+  width: 4em;
+  height: 4em;
+}
+
+.fi--full {
+  width: 100%;
+  height: auto;
+}
+
+
+.fi--round {
+  border-radius: 4px;
+}
+.fi--circle {
+  border-radius: 50%;
+}
+.fi--fill {
+  background-color: #ccc;
+}
+.fi--border {
+  border:1px solid #ccc;
+}

@@ -1,0 +1,10 @@
+{
+  "name": "arrow-right",
+  "viewBox": "0 0 64 64",
+  "path": [
+    {
+      "d": "M51.45 32L19.448 0 12.55 6.894 37.657 32 12.55 57.106 19.448 64"
+    }
+  ],
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNNTEuNDUgMzJMMTkuNDQ4IDAgMTIuNTUgNi44OTQgMzcuNjU3IDMyIDEyLjU1IDU3LjEwNiAxOS40NDggNjQiLz48L3N2Zz4="
+}
