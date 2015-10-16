@@ -1,0 +1,10 @@
+{
+  "name": "caret-bottom",
+  "viewBox": "0 0 64 64",
+  "path": [
+    {
+      "d": "M64 15.997L32.008 48.003 0 15.997"
+    }
+  ],
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNNjQgMTUuOTk3TDMyLjAwOCA0OC4wMDMgMCAxNS45OTciLz48L3N2Zz4="
+}
