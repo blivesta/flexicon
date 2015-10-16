@@ -1,0 +1,10 @@
+{
+  "name": "chevron-right",
+  "viewBox": "0 0 64 64",
+  "path": [
+    {
+      "d": "M37.787 31.992L12.61 6.812l6.81-6.81 31.988 31.99L19.402 64l-6.81-6.814"
+    }
+  ],
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNMzcuNzg3IDMxLjk5MkwxMi42MSA2LjgxMmw2LjgxLTYuODEgMzEuOTg4IDMxLjk5TDE5LjQwMiA2NGwtNi44MS02LjgxNCIvPjwvc3ZnPg=="
+}

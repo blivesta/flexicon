@@ -1,0 +1,10 @@
+{
+  "name": "chevron-top",
+  "viewBox": "0 0 64 64",
+  "path": [
+    {
+      "d": "M31.992 26.213L6.812 51.39 0 44.58l31.99-31.988L64 44.597l-6.814 6.81"
+    }
+  ],
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNMzEuOTkyIDI2LjIxM0w2LjgxMiA1MS4zOSAwIDQ0LjU4bDMxLjk5LTMxLjk4OEw2NCA0NC41OTdsLTYuODE0IDYuODEiLz48L3N2Zz4="
+}
