@@ -1,0 +1,10 @@
+{
+  "name": "chevron-bottom-thin",
+  "viewBox": "0 0 64 64",
+  "path": [
+    {
+      "d": "M.02 18.003l3.985-3.983L32 42.016l27.997-27.994 3.982 3.98L32 49.98"
+    }
+  ],
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNLjAyIDE4LjAwM2wzLjk4NS0zLjk4M0wzMiA0Mi4wMTZsMjcuOTk3LTI3Ljk5NCAzLjk4MiAzLjk4TDMyIDQ5Ljk4Ii8+PC9zdmc+"
+}
