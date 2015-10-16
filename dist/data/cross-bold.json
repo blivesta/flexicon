@@ -1,0 +1,10 @@
+{
+  "name": "cross-bold",
+  "viewBox": "0 0 64 64",
+  "path": [
+    {
+      "d": "M64 9.64L54.37 0 32.015 22.354 9.66 0 .02 9.64 22.388 32 .027 54.36 9.656 64l22.357-22.354L54.37 64 64 54.36 41.64 32"
+    }
+  ],
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNNjQgOS42NEw1NC4zNyAwIDMyLjAxNSAyMi4zNTQgOS42NiAwIC4wMiA5LjY0IDIyLjM4OCAzMiAuMDI3IDU0LjM2IDkuNjU2IDY0bDIyLjM1Ny0yMi4zNTRMNTQuMzcgNjQgNjQgNTQuMzYgNDEuNjQgMzIiLz48L3N2Zz4="
+}
