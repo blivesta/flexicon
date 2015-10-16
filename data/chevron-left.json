@@ -1,0 +1,10 @@
+{
+  "name": "chevron-left",
+  "viewBox": "0 0 64 64",
+  "path": [
+    {
+      "d": "M26.213 32.008l25.178 25.18-6.81 6.81-31.988-31.99L44.598 0l6.81 6.814"
+    }
+  ],
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNMjYuMjEzIDMyLjAwOGwyNS4xNzggMjUuMTgtNi44MSA2LjgxLTMxLjk4OC0zMS45OUw0NC41OTggMGw2LjgxIDYuODE0Ii8+PC9zdmc+"
+}
