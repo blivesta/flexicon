@@ -19,7 +19,7 @@
     "deploy": "git subtree push --prefix dist origin gh-pages"
   },
   "devDependencies": {
-    "flexicon-generator": "^0.0.1",
+    "flexicon-generator": "^0.0.3",
     "http-server": "^0.8.5"
   }
 }
