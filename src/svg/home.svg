@@ -3,6 +3,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="flexicon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path d="M60.801,37.34L32,14.984L3.2,37.34v-9.11L32,5.87l28.801,22.356V37.34L60.801,37.34z M53.6,36.527V58.13H39.2V43.73H24.8
-	V58.13H10.4v-21.6L32,20.33l21.6,16.2V36.527z"/>
+<path d="M64,37.933L32,13.093L0,37.933V27.811L32,2.967l32,24.84V37.933L64,37.933z M56,37.03v24.003H40V45.034H24v15.999H8v-24
+	l24-18l24,18V37.03z"/>
 </svg>
