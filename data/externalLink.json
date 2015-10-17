@@ -1,0 +1,13 @@
+{
+  "name": "externalLink",
+  "viewBox": "0 0 64 64",
+  "path": [
+    {
+      "d": "M56 56H8V8h15.334V0H0v64h64V38.5h-8"
+    },
+    {
+      "d": "M38.334 0l9.65 9.65L26.13 31.508l6.363 6.363L54.35 16.015 64 25.667V0"
+    }
+  ],
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNNTYgNTZIOFY4aDE1LjMzNFYwSDB2NjRoNjRWMzguNWgtOCIvPjxwYXRoIGQ9Ik0zOC4zMzQgMGw5LjY1IDkuNjVMMjYuMTMgMzEuNTA4bDYuMzYzIDYuMzYzTDU0LjM1IDE2LjAxNSA2NCAyNS42NjdWMCIvPjwvc3ZnPg=="
+}
