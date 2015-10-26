@@ -41,11 +41,6 @@
     content: counter(Card) ': ';
     counter-increment: Card;
   }
-
-  /* alertify */
-  .alertify-logs {
-    font-weight: bold;
-  }
   </style>
 
   <!-- Google analytics -->
@@ -55,11 +50,18 @@
 <body>
 <%= svgInject %>
 
-<header class="t-mbXl t-gutter">
-  <div class="t-clear" style="border-bottom:3px solid #000;">
-    <div class="t-pullLeft">
+<header class="t-mbXl">
+  <div class="Grid Grid--bottom t-clear" style="border-bottom:3px solid #000;">
+    <div class="Grid-col t-sm-width3of4 t-lg-width4of5">
       <h1 class="t-mb0">Flexicon</h1>
       <p class="t-mbXs">A Preview and Source Code of SVG Icons.</p>
+    </div>
+    <div class="Grid-col t-sm-width1of4 t-lg-width1of5">
+      <ul class="ListInline t-mbXs t-sm-alignRight">
+      	<li>
+      	  <iframe class="github-btn" src="http://ghbtns.com/github-btn.html?user=blivesta&amp;repo=flexicon&amp;type=watch&amp;size=large&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="112" height="30"></iframe>
+      	</li>
+      </ul>
     </div>
   </div>
 </header>
@@ -84,7 +86,7 @@
 
 <footer class="t-mbXl t-gutter">
   <div style="border-top:2px solid #000;">
-    <ul class="ListInline t-mtMd">
+    <ul class="ListInline t-gutter t-mtMd">
       <li>
         <small>
           Created by
