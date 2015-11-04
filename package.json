@@ -14,13 +14,15 @@
   },
   "license": "MIT",
   "scripts": {
-    "serve":"http-server ./dist -o",
-    "build":"node ./flexicon.js",
+    "css:cpoy": "cp -r ./node_modules/sircus/dist/sircus.min.css ./dist/sircus.min.css ",
+    "serve": "http-server ./dist -o",
+    "build": "npm run css:cpoy && node ./flexicon.js",
     "start": "npm run build && npm run serve",
     "deploy": "git subtree push --prefix dist origin gh-pages"
   },
   "devDependencies": {
     "flexicon-generator": "^0.0.3",
-    "http-server": "^0.8.5"
+    "http-server": "^0.8.5",
+    "sircus": "^2.0.0"
   }
 }

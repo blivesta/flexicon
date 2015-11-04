@@ -15,7 +15,7 @@
   <meta name="twitter:site" content="@blivesta" />
   <meta name="twitter:creator" content="@blivesta" />
 
-  <link rel="stylesheet" href="https://cdn.rawgit.com/sircus/sircus/master/dist/sircus.min.css" charset="utf-8" />
+  <link rel="stylesheet" href="sircus.min.css" charset="utf-8" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/alertify.js/0.3.11/alertify.core.min.css" charset="utf-8" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/alertify.js/0.3.11/alertify.default.min.css" charset="utf-8" />
   <style media="screen">
@@ -23,19 +23,10 @@
   /* flexicon-generator default template style */
   body {
     counter-reset: Card;
-    margin-top:0;
-  }
-  h1 {
-    font-size: 4rem;
   }
   a,
   .Button {
     color:#000;
-  }
-  .Button:hover,
-  .Button:focus {
-    background-color:transparent;
-    text-decoration: underline;
   }
   .Card h4:before {
     content: counter(Card) ': ';
@@ -47,16 +38,16 @@
   <script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-50883754-1', 'blivesta.com');ga('require', 'displayfeatures');ga('send', 'pageview');
   </script>
 </head>
-<body>
+<body class="t-gutter">
 <%= svgInject %>
 
 <header class="t-mbXl">
-  <div class="Grid Grid--bottom t-clear" style="border-bottom:3px solid #000;">
-    <div class="Grid-col t-sm-width3of4 t-lg-width4of5">
-      <h1 class="t-mb0">Flexicon</h1>
-      <p class="t-mbXs">A Preview and Source Code of SVG Icons.</p>
+  <div class="Grid Grid--bottom t-clear t-borderBottom3x">
+    <div class="Grid-col t-sm-width9of12 t-lg-width8of10">
+      <h1 class="t-fontGt t-mb0">Flexicon</h1>
+      <p class="t-mbXs">A Preview and Source Code Copy for SVG Icons.</p>
     </div>
-    <div class="Grid-col t-sm-width1of4 t-lg-width1of5">
+    <div class="Grid-col t-sm-width3of12 t-lg-width2of10">
       <ul class="ListInline t-mbXs t-sm-alignRight">
       	<li>
       	  <iframe class="github-btn" src="http://ghbtns.com/github-btn.html?user=blivesta&amp;repo=flexicon&amp;type=watch&amp;size=large&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="112" height="30"></iframe>
@@ -70,8 +61,8 @@
 <main>
   <section class="Grid">
     <% _.each(icons, function(icon) { %>
-    <div class="Card Grid-col t-widthHalf t-sm-width1of4 t-lg-width1of5 t-mbXl">
-      <div class="t-center t-width1of3">
+    <div class="Card Grid-col t-widthHalf t-sm-width3of12 t-lg-width2of10 t-mbXl">
+      <div class="t-center t-width4of12">
         <svg width="64" height="64" class="<%= options.prefix %> <%= options.prefix %>--full"><use xlink:href="#<%= options.prefix %>-<%= icon.name %>" /></svg>
       </div>
       <h4 class="t-pbTn t-mbTn" style="border-bottom:2px solid #000"><%= icon.name %></h4>
@@ -85,7 +76,7 @@
 </main>
 
 <footer class="t-mbXl">
-  <div style="border-top:2px solid #000;">
+  <div class="t-borderTop2x">
     <ul class="ListInline t-gutter t-mtMd">
       <li>
         <small>
