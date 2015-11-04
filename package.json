@@ -1,6 +1,6 @@
 {
   "name": "flexicon",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "./dist/flexicon.json",
   "homepage": "https://github.com/blivesta/flexicon",
   "description": "A Preview and Source Code Copy for SVG Icons.",
