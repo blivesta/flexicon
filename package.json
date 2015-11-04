@@ -3,7 +3,7 @@
   "version": "0.1.2",
   "main": "./dist/flexicon.json",
   "homepage": "https://github.com/blivesta/flexicon",
-  "description": "A Preview and Source Code of SVG Icons.",
+  "description": "A Preview and Source Code Copy for SVG Icons.",
   "repository": {
     "type": "git",
     "url": "git@github.com:blivesta/flexicon.git"
