@@ -1,8 +1,6 @@
-var FlexiconGenerator = require('flexicon-generator');
+var SVGPack = require('svgpack')
 
-FlexiconGenerator = new FlexiconGenerator('./src/svg/*.svg', {
-  dist:'./dist',
-  templates: {
-    html:'./src/html/flexicon.html'
-  }
-});
+SVGPack = new SVGPack('./src/svg/*.svg', {
+  name:'flexicon',
+  dist:'./dist'
+})
