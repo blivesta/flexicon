@@ -1,0 +1,10 @@
+{
+  "name": "hamburger-thin",
+  "viewBox": "0 0 64 64",
+  "path": [
+    {
+      "d": "M.004 8h63.998v5.627H.004zM.004 29.187h63.998v5.626H.004zM.004 50.373h63.998V56H.004z"
+    }
+  ],
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNLjAwNCA4aDYzLjk5OHY1LjYyN0guMDA0ek0uMDA0IDI5LjE4N2g2My45OTh2NS42MjZILjAwNHpNLjAwNCA1MC4zNzNoNjMuOTk4VjU2SC4wMDR6Ii8+PC9zdmc+"
+}

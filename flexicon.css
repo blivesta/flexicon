@@ -1,47 +1,51 @@
-.fi {
+.icon {
   display:inline-block;
+  fill: currentColor;
+  margin-top: -0.2em;
   width: 1em;
   height: 1em;
-  vertical-align: text-bottom;
-}
-
-.fi--2x,
-.fi--3x,
-.fi--4x,
-.fi--full {
   vertical-align:middle;
 }
 
-.fi--2x {
+.icon--2x,
+.icon--3x,
+.icon--4x {
+  margin-top: 0;
+}
+
+.icon--2x {
   width: 2em;
   height: 2em;
 }
 
-.fi--3x {
+.icon--3x {
   width: 3em;
   height: 3em;
 }
 
-.fi--4x {
+.icon--4x {
   width: 4em;
   height: 4em;
 }
 
-.fi--full {
+.icon--full {
   width: 100%;
-  height: auto;
+  height: 100%;
 }
 
+.icon--fill {
+  background-color: currentColor;
+  fill:#fff;
+}
 
-.fi--round {
+.icon--round {
   border-radius: 4px;
 }
-.fi--circle {
+
+.icon--circle {
   border-radius: 50%;
 }
-.fi--fill {
-  background-color: #ccc;
-}
-.fi--border {
-  border:1px solid #ccc;
+
+.icon--border {
+  border:1px solid currentColor;
 }
