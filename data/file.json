@@ -3,11 +3,11 @@
   "viewBox": "0 0 64 64",
   "path": [
     {
-      "d": "M29.858 0H8v64h48V26.09H29.858"
+      "d": "M29.858 0H8v64h48V26.089H29.858z"
     },
     {
-      "d": "M38.888 0h-.03v17.09H56v-.007"
+      "d": "M38.888 0h-.03v17.089H56v-.006z"
     }
   ],
-  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNMjkuODU4IDBIOHY2NGg0OFYyNi4wOUgyOS44NTgiLz48cGF0aCBkPSJNMzguODg4IDBoLS4wM3YxNy4wOUg1NnYtLjAwNyIvPjwvc3ZnPg=="
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNMjkuODU4IDBIOHY2NGg0OFYyNi4wODlIMjkuODU4eiIvPjxwYXRoIGQ9Ik0zOC44ODggMGgtLjAzdjE3LjA4OUg1NnYtLjAwNnoiLz48L3N2Zz4="
 }
