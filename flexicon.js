@@ -6,3 +6,4 @@ SVGPack = new SVGPack('./src/svg/*.svg', {
   templates: {
     html: './src/flexcon.html'
   }
+}).init()
