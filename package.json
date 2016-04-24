@@ -1,6 +1,6 @@
 {
   "name": "flexicon",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "main": "./dist/flexicon.json",
   "style": "./dist/flexicon.css",
   "homepage": "https://github.com/blivesta/flexicon",
