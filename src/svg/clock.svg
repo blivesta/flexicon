@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="flexicon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<g>
-	<path d="M31.66-0.283c-17.645,0-32,14.355-32,32c0,17.645,14.355,32,32,32s32-14.355,32-32C63.659,14.072,49.305-0.283,31.66-0.283
-		z M31.66,55.717c-13.234,0-24-10.767-24-24c0-13.234,10.766-24,24-24c13.233,0,24,10.766,24,24
-		C55.659,44.95,44.893,55.717,31.66,55.717z"/>
-	<polygon points="28.66,28.717 20.087,28.717 20.087,34.717 34.66,34.711 34.66,13.5 28.66,13.5 	"/>
-</g>
+<svg version="1.1" id="clock" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+	<path d="M16,4C9.383,4,4,9.383,4,16s5.383,12,12,12c6.617,0,12-5.383,12-12S22.617,4,16,4z M16,25
+		c-4.963,0-9-4.037-9-9s4.037-9,9-9c4.962,0,9,4.037,9,9S20.962,25,16,25z"/>
+	<polygon points="14.875,14.875 11.66,14.875 11.66,17.125 17.125,17.122 17.125,9.169 14.875,9.169 	"/>
 </svg>

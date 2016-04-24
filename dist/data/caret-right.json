@@ -1,10 +1,10 @@
 {
   "name": "caret-right",
-  "viewBox": "0 0 64 64",
+  "viewBox": "0 0 32 32",
   "path": [
     {
-      "d": "M15.997 0l32.006 31.992L15.997 64z"
+      "d": "M11.303 8l11.394 7.997L11.303 24z"
     }
   ],
-  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNMTUuOTk3IDBsMzIuMDA2IDMxLjk5MkwxNS45OTcgNjR6Ii8+PC9zdmc+"
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNMTEuMzAzIDhsMTEuMzk0IDcuOTk3TDExLjMwMyAyNHoiLz48L3N2Zz4="
 }

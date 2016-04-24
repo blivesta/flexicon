@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="flexicon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<g>
-	<polygon points="9.521,3.04 7.385,13.792 51.113,13.792 49.738,20.706 5.973,20.706 3.873,31.457 47.604,31.457 45.141,43.729 
-		27.548,49.557 12.272,43.729 13.322,38.407 2.57,38.407 0,51.294 25.268,60.96 54.371,51.294 64,3.04 	"/>
-</g>
+<svg version="1.1" id="css3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+	<polygon points="8.272,6.044 7.539,9.74 22.57,9.74 22.098,12.118 7.053,12.118 6.331,15.814 21.364,15.814
+		20.518,20.03 14.469,22.034 9.218,20.03 9.58,18.202 5.884,18.202 5,22.632 13.686,25.956 23.689,22.632 27,6.044 	"/>
 </svg>

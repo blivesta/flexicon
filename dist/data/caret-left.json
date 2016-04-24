@@ -1,10 +1,10 @@
 {
   "name": "caret-left",
-  "viewBox": "0 0 64 64",
+  "viewBox": "0 0 32 32",
   "path": [
     {
-      "d": "M48.003 64L15.997 32.008 48.003 0z"
+      "d": "M20.697 24L9.303 16.003 20.697 8z"
     }
   ],
-  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNNDguMDAzIDY0TDE1Ljk5NyAzMi4wMDggNDguMDAzIDB6Ii8+PC9zdmc+"
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNMjAuNjk3IDI0TDkuMzAzIDE2LjAwMyAyMC42OTcgOHoiLz48L3N2Zz4="
 }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="flexicon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path d="M64,56.93L47.57,40.5C50.366,36.355,52,31.365,52,26C52,11.664,40.337,0,26,0C11.664,0,0,11.664,0,26
-	c0,14.336,11.664,26,26,26c5.364,0,10.354-1.634,14.499-4.429L56.928,64L64,56.93z M26,44c-9.925,0-18-8.074-18-18
-	c0-9.925,8.075-18,18-18c9.925,0,18,8.075,18,18C44,35.926,35.925,44,26,44z"/>
+<svg version="1.1" id="search" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<path d="M28,25.349l-6.161-6.161c1.048-1.555,1.661-3.426,1.661-5.438C23.5,8.374,19.127,4,13.75,4
+	C8.374,4,4,8.374,4,13.75s4.374,9.75,9.75,9.75c2.011,0,3.883-0.612,5.438-1.661L25.348,28L28,25.349z M13.75,20.5
+	C10.028,20.5,7,17.473,7,13.75C7,10.028,10.028,7,13.75,7s6.75,3.028,6.75,6.75C20.5,17.473,17.472,20.5,13.75,20.5z"/>
 </svg>
