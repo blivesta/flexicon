@@ -1,13 +1,13 @@
 {
   "name": "file",
-  "viewBox": "0 0 64 64",
+  "viewBox": "0 0 32 32",
   "path": [
     {
-      "d": "M29.858 0H8v64h48V26.089H29.858z"
+      "d": "M15.331 6H8.5v20h15V14.154h-8.169z"
     },
     {
-      "d": "M38.888 0h-.03v17.089H56v-.006z"
+      "d": "M18.153 6h-.009v5.342H23.5v-.002z"
     }
   ],
-  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNMjkuODU4IDBIOHY2NGg0OFYyNi4wODlIMjkuODU4eiIvPjxwYXRoIGQ9Ik0zOC44ODggMGgtLjAzdjE3LjA4OUg1NnYtLjAwNnoiLz48L3N2Zz4="
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNMTUuMzMxIDZIOC41djIwaDE1VjE0LjE1NGgtOC4xNjl6Ii8+PHBhdGggZD0iTTE4LjE1MyA2aC0uMDA5djUuMzQySDIzLjV2LS4wMDJ6Ii8+PC9zdmc+"
 }

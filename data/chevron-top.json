@@ -1,10 +1,10 @@
 {
   "name": "chevron-top",
-  "viewBox": "0 0 64 64",
+  "viewBox": "0 0 32 32",
   "path": [
     {
-      "d": "M31.992 26.213L6.811 51.391l-6.81-6.81 31.991-31.989 32.007 32.005-6.813 6.811z"
+      "d": "M15.997 13.374l-7.081 7.081L7 18.54l8.997-8.998 9.003 9-1.916 1.916z"
     }
   ],
-  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNMzEuOTkyIDI2LjIxM0w2LjgxMSA1MS4zOTFsLTYuODEtNi44MSAzMS45OTEtMzEuOTg5IDMyLjAwNyAzMi4wMDUtNi44MTMgNi44MTF6Ii8+PC9zdmc+"
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNMTUuOTk3IDEzLjM3NGwtNy4wODEgNy4wODFMNyAxOC41NGw4Ljk5Ny04Ljk5OCA5LjAwMyA5LTEuOTE2IDEuOTE2eiIvPjwvc3ZnPg=="
 }

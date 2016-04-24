@@ -1,10 +1,10 @@
 {
   "name": "check",
-  "viewBox": "0 0 64 64",
+  "viewBox": "0 0 32 32",
   "path": [
     {
-      "d": "M.008 30.254l6.047-6.046 18.46 18.453L57.939 9.238l6.053 6.049-39.477 39.475z"
+      "d": "M4 15.345l2.269-2.268 6.923 6.922L25.729 7.462 28 9.731 13.192 24.538z"
     }
   ],
-  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNLjAwOCAzMC4yNTRsNi4wNDctNi4wNDYgMTguNDYgMTguNDUzTDU3LjkzOSA5LjIzOGw2LjA1MyA2LjA0OS0zOS40NzcgMzkuNDc1eiIvPjwvc3ZnPg=="
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNNCAxNS4zNDVsMi4yNjktMi4yNjggNi45MjMgNi45MjJMMjUuNzI5IDcuNDYyIDI4IDkuNzMxIDEzLjE5MiAyNC41Mzh6Ii8+PC9zdmc+"
 }
