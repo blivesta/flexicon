@@ -57,6 +57,9 @@
     }
 
   </style>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-50883754-1', 'blivesta.com');ga('require', 'displayfeatures');ga('send', 'pageview');
+</script>
 </head>
 <body>
 <%= svgInject %>
@@ -77,38 +80,38 @@
         <h2>Style</h2>
       </div>
       <p class="Grid-col t-width4of12">
-        <svg viewBox="0 0 64 64"  class="<%= options.prefix %> <%= options.prefix %>--fill"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> fill
+        <svg viewBox="0 0 32 32"  class="<%= options.prefix %> <%= options.prefix %>--fill"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> fill
       </p>
       <p class="Grid-col t-width4of12">
-        <svg viewBox="0 0 64 64"  class="<%= options.prefix %> <%= options.prefix %>--fill <%= options.prefix %>--round"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> fill &amp; round
+        <svg viewBox="0 0 32 32"  class="<%= options.prefix %> <%= options.prefix %>--fill <%= options.prefix %>--round"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> fill &amp; round
       </p>
       <p class="Grid-col t-width4of12">
-        <svg viewBox="0 0 64 64" class="<%= options.prefix %> <%= options.prefix %>--fill <%= options.prefix %>--circle"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> fill &amp; circle
+        <svg viewBox="0 0 32 32" class="<%= options.prefix %> <%= options.prefix %>--fill <%= options.prefix %>--circle"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> fill &amp; circle
       </p>
       <p class="Grid-col t-width4of12">
-        <svg viewBox="0 0 64 64"  class="<%= options.prefix %> <%= options.prefix %>--border <%= options.prefix %>--circle"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> border &amp; circle
+        <svg viewBox="0 0 32 32"  class="<%= options.prefix %> <%= options.prefix %>--border <%= options.prefix %>--circle"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> border &amp; circle
       </p>
       <p class="Grid-col t-width4of12">
-        <svg viewBox="0 0 64 64"  class="<%= options.prefix %> <%= options.prefix %>--border <%= options.prefix %>--round"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> border &amp; round
+        <svg viewBox="0 0 32 32"  class="<%= options.prefix %> <%= options.prefix %>--border <%= options.prefix %>--round"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> border &amp; round
       </p>
 
       <div class="Grid-col t-widthFull">
         <h2>Size</h2>
       </div>
       <p class="Grid-col t-width3of12">
-        <svg viewBox="0 0 64 64"  class="<%= options.prefix %>"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> base
+        <svg viewBox="0 0 32 32"  class="<%= options.prefix %>"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> base
       </p>
       <p class="Grid-col t-width3of12">
-        <svg viewBox="0 0 64 64"  class="<%= options.prefix %> <%= options.prefix %>--2x"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> 2x
+        <svg viewBox="0 0 32 32"  class="<%= options.prefix %> <%= options.prefix %>--2x"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> 2x
       </p>
       <p class="Grid-col t-width3of12">
-        <svg viewBox="0 0 64 64"  class="<%= options.prefix %> <%= options.prefix %>--3x"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> 3x
+        <svg viewBox="0 0 32 32"  class="<%= options.prefix %> <%= options.prefix %>--3x"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> 3x
       </p>
       <p class="Grid-col t-width3of12">
-        <svg viewBox="0 0 64 64"  class="<%= options.prefix %> <%= options.prefix %>--4x"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> 4x
+        <svg viewBox="0 0 32 32"  class="<%= options.prefix %> <%= options.prefix %>--4x"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg> 4x
       </p>
       <p class="Grid-col t-widthFull t-mtMd">
-        <svg viewBox="0 0 64 64"  class="<%= options.prefix %> <%= options.prefix %>--full"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg>
+        <svg viewBox="0 0 32 32"  class="<%= options.prefix %> <%= options.prefix %>--full"><use xlink:href="#<%= options.prefix %>-<%= icons[0].name %>"></use></svg>
         full
       </p>
     </div>
@@ -133,7 +136,7 @@
     <% _.each(icons, function(icon) { %>
     <a class="card Grid-col t-widthHalf t-sm-width3of12 t-lg-width2of12 t-mbXl t-alignCenter" href="#modal-<%= icon.name %>">
       <div class="t-mbTn">
-        <svg viewBox="0 0 64 64" class="<%= options.prefix %> <%= options.prefix %>--4x"><use xlink:href="#<%= options.prefix %>-<%= icon.name %>"></use></svg>
+        <svg viewBox="0 0 32 32" class="<%= options.prefix %> <%= options.prefix %>--4x"><use xlink:href="#<%= options.prefix %>-<%= icon.name %>"></use></svg>
       </div>
       <span class="card-title"><%= options.prefix %>-<%= icon.name %></span>
     </a>
@@ -143,10 +146,33 @@
 
       <div class="Grid Grid--middle">
         <div class="Grid-col t-widthFull">
-          <p>
-            <svg viewBox="0 0 64 64" class="<%= options.prefix %>"><use xlink:href="#<%= options.prefix %>-<%= icon.name %>"></use></svg>
-            <%= icon.name %>
+          <p class="">
+            <svg viewBox="0 0 32 32" class="<%= options.prefix %> <%= options.prefix %>--4x"><use xlink:href="#<%= options.prefix %>-<%= icon.name %>"></use></svg>
+            <span class="t-fontLg"><%= icon.name %></span>
           </p>
+        </div>
+
+        <div class="Grid-col t-widthFull">
+          <div class="Grid t-gutterReset t-mbMd">
+            <p class="Grid-col t-sm-widthHalf">
+              <svg viewBox="0 0 32 32"  class="<%= options.prefix %>"><use xlink:href="#<%= options.prefix %>-<%= icon.name %>"></use></svg> svg.<%= options.prefix %>
+            </p>
+            <p class="Grid-col t-sm-widthHalf">
+              <svg viewBox="0 0 32 32"  class="<%= options.prefix %> <%= options.prefix %>--fill"><use xlink:href="#<%= options.prefix %>-<%= icon.name %>"></use></svg> svg.<%= options.prefix %>.<%= options.prefix %>--fill
+            </p>
+            <p class="Grid-col t-sm-widthHalf">
+              <svg viewBox="0 0 32 32"  class="<%= options.prefix %> <%= options.prefix %>--fill <%= options.prefix %>--round"><use xlink:href="#<%= options.prefix %>-<%= icon.name %>"></use></svg> svg.<%= options.prefix %>.<%= options.prefix %>--fill.<%= options.prefix %>--round
+            </p>
+            <p class="Grid-col t-sm-widthHalf">
+              <svg viewBox="0 0 32 32" class="<%= options.prefix %> <%= options.prefix %>--fill <%= options.prefix %>--circle"><use xlink:href="#<%= options.prefix %>-<%= icon.name %>"></use></svg> svg.<%= options.prefix %>.<%= options.prefix %>--fill.<%= options.prefix %>--circle
+            </p>
+            <p class="Grid-col t-sm-widthHalf">
+              <svg viewBox="0 0 32 32"  class="<%= options.prefix %> <%= options.prefix %>--border <%= options.prefix %>--circle"><use xlink:href="#<%= options.prefix %>-<%= icon.name %>"></use></svg> svg.<%= options.prefix %>.<%= options.prefix %>--border.<%= options.prefix %>--circle
+            </p>
+            <p class="Grid-col t-sm-widthHalf">
+              <svg viewBox="0 0 32 32"  class="<%= options.prefix %> <%= options.prefix %>--border <%= options.prefix %>--round"><use xlink:href="#<%= options.prefix %>-<%= icon.name %>"></use></svg> svg.<%= options.prefix %>.<%= options.prefix %>--border.<%= options.prefix %>--round
+            </p>
+          </div>
         </div>
 
         <div class="Grid-col t-width4of12">
@@ -154,7 +180,7 @@
         </div>
         <div class="Grid-col t-width8of12">
           <p>
-            <input type="text" class="Input" value="<svg viewBox='0 0 64 64' class='<%= options.prefix %>'><use xlink:href='#<%= options.prefix %>-<%= icon.name %>'></use></svg>">
+            <input type="text" class="Input" value="<svg viewBox='0 0 32 32' class='<%= options.prefix %>'><use xlink:href='#<%= options.prefix %>-<%= icon.name %>'></use></svg>">
           </p>
         </div>
         <div class="Grid-col t-width4of12">
@@ -162,7 +188,7 @@
         </div>
         <div class="Grid-col t-width8of12">
           <p>
-            <input type="text"class="Input" value="<svg viewBox='0 0 64 64' class='<%= options.prefix %> <%= options.prefix %>-<%= icon.name %>' viewBox='<%= icon.viewBox %>' xmlns='http://www.w3.org/2000/svg'><% _.each(icon.path, function(path) { %><path d='<%= path.d %>'/><% }) %></svg>">
+            <input type="text"class="Input" value="<svg viewBox='0 0 32 32' class='<%= options.prefix %> <%= options.prefix %>-<%= icon.name %>' viewBox='<%= icon.viewBox %>' xmlns='http://www.w3.org/2000/svg'><% _.each(icon.path, function(path) { %><path d='<%= path.d %>'/><% }) %></svg>">
           </p>
         </div>
         <div class="Grid-col t-width4of12">
