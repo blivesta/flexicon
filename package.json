@@ -22,7 +22,6 @@
   },
   "devDependencies": {
     "svgpack": "^2.0.0",
-    "http-server": "^0.8.5",
-    "sircus": "^2.0.0"
+    "http-server": "^0.9.0"
   }
 }
