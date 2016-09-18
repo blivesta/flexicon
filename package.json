@@ -15,8 +15,9 @@
   },
   "license": "MIT",
   "scripts": {
+    "clean": "rm -rf ./dist",
     "serve": "http-server ./dist -o",
-    "build": "svgpack ./src/svg/*.svg -d ./dist -n flexicon -m ./src/flexcon.html",
+    "build": "npm run clean && svgpack ./src/svg/*.svg -d ./dist -n flexicon -m ./src/flexcon.html -b true",
     "start": "npm run build && npm run serve",
     "deploy": "git subtree push --prefix dist origin gh-pages"
   },
