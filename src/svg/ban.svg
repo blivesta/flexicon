@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="ban" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M16,4C9.383,4,4,9.382,4,16s5.383,12,12,12c6.616,0,12-5.382,12-12S22.616,4,16,4z M16,7
-	c1.94,0,3.739,0.621,5.209,1.669L8.668,21.212C7.619,19.738,7,17.94,7,16C7,11.038,11.037,7,16,7z M16,25
-	c-1.94,0-3.739-0.621-5.21-1.669L23.33,10.788C24.381,12.262,25,14.06,25,16C25,20.961,20.963,25,16,25z"/>
+<svg version="1.1" id="ban" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<path d="M16,5C9.935,5,5,9.934,5,16c0,6.067,4.935,11,11,11s11-4.933,11-11C27,9.934,22.065,5,16,5z M16,7.75
+	c1.777,0,3.427,0.569,4.775,1.53L9.279,20.778C8.317,19.427,7.75,17.777,7.75,16C7.75,11.451,11.451,7.75,16,7.75z M16,24.25
+	c-1.778,0-3.428-0.569-4.775-1.53l11.494-11.497c0.963,1.351,1.531,3,1.531,4.777C24.25,20.547,20.549,24.25,16,24.25z"/>
 </svg>

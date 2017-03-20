@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="clock" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-	<path d="M16,4C9.383,4,4,9.383,4,16s5.383,12,12,12c6.617,0,12-5.383,12-12S22.617,4,16,4z M16,25
-		c-4.963,0-9-4.037-9-9s4.037-9,9-9c4.962,0,9,4.037,9,9S20.962,25,16,25z"/>
-	<polygon points="14.875,14.875 11.66,14.875 11.66,17.125 17.125,17.122 17.125,9.169 14.875,9.169 	"/>
+<svg version="1.1" id="clock" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<path d="M16,5C9.935,5,5,9.935,5,16c0,6.066,4.935,11,11,11c6.066,0,11-4.934,11-11C27,9.935,22.066,5,16,5z M16,24.25
+	c-4.549,0-8.25-3.701-8.25-8.25c0-4.549,3.701-8.25,8.25-8.25c4.548,0,8.25,3.701,8.25,8.25C24.25,20.549,20.548,24.25,16,24.25z"/>
+<polygon points="14.969,14.969 12.021,14.969 12.021,17.031 17.031,17.028 17.031,9.738 14.969,9.738 "/>
 </svg>

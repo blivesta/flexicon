@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="dropbox" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-	<polygon points="11.067,21.856 16,17.746 8.875,13.346 4,17.256 		"/>
-	<polygon points="16,17.744 20.947,21.856 28,17.256 23.125,13.346 		"/>
-	<polygon points="16.029,18.64 16.029,18.61 16.015,18.625 16,18.61 16,18.64 11.067,22.735 8.947,21.352
-		8.947,22.908 16,27.135 16,27.148 16.015,27.135 16.029,27.148 16.029,27.135 23.096,22.908 23.096,21.352 20.977,22.735 		"/>
-	<polygon points="4,9.452 8.875,13.346 16,8.961 11.067,4.852 		"/>
-	<polygon points="20.947,4.852 16,8.961 23.125,13.346 28,9.452 		"/>
+<svg version="1.1" id="dropbox" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<polygon points="11.478,21.367 16,17.601 9.469,13.567 5,17.15 "/>
+<polygon points="16,17.6 20.535,21.367 27,17.15 22.531,13.567 "/>
+<polygon points="16.027,18.42 16.027,18.393 16.014,18.406 16,18.393 16,18.42 11.478,22.174 9.535,20.906 9.535,22.332 16,26.207 
+	16,26.219 16.014,26.207 16.027,26.219 16.027,26.207 22.504,22.332 22.504,20.906 20.562,22.174 "/>
+<polygon points="5,9.998 9.469,13.567 16,9.548 11.478,5.781 "/>
+<polygon points="20.535,5.781 16,9.548 22.531,13.567 27,9.998 "/>
 </svg>
