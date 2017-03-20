@@ -1,0 +1,10 @@
+{
+  "name": "arrow-top",
+  "viewBox": "0 0 32 32",
+  "path": [
+    {
+      "d": "M17.504 26.025l.001-14.287 6.366 6.367L26 15.979 15.997 5.975 6 15.971 8.129 18.1l6.366-6.368v14.291z"
+    }
+  ],
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNMTcuNTA0IDI2LjAyNWwuMDAxLTE0LjI4NyA2LjM2NiA2LjM2N0wyNiAxNS45NzkgMTUuOTk3IDUuOTc1IDYgMTUuOTcxIDguMTI5IDE4LjFsNi4zNjYtNi4zNjh2MTQuMjkxeiIvPjwvc3ZnPg=="
+}
