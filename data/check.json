@@ -3,8 +3,8 @@
   "viewBox": "0 0 32 32",
   "path": [
     {
-      "d": "M4 15.345l2.269-2.268 6.923 6.922L25.729 7.462 28 9.731 13.192 24.538z"
+      "d": "M5 16.577l2.194-2.195 5.486 5.484L24.804 7.743 27 9.937l-14.32 14.32z"
     }
   ],
-  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNNCAxNS4zNDVsMi4yNjktMi4yNjggNi45MjMgNi45MjJMMjUuNzI5IDcuNDYyIDI4IDkuNzMxIDEzLjE5MiAyNC41Mzh6Ii8+PC9zdmc+"
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNNSAxNi41NzdsMi4xOTQtMi4xOTUgNS40ODYgNS40ODRMMjQuODA0IDcuNzQzIDI3IDkuOTM3bC0xNC4zMiAxNC4zMnoiLz48L3N2Zz4="
 }
