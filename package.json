@@ -22,7 +22,7 @@
     "deploy": "git subtree push --prefix dist origin gh-pages"
   },
   "devDependencies": {
-    "svgpack": "^3.0.0",
+    "svgpack": "^3.0.1",
     "http-server": "^0.9.0"
   }
 }
