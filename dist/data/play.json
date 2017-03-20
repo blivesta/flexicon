@@ -1,0 +1,10 @@
+{
+  "name": "play",
+  "viewBox": "0 0 32 32",
+  "path": [
+    {
+      "d": "M10.968 23V9l12.762 7-12.762 7z"
+    }
+  ],
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNMTAuOTY4IDIzVjlsMTIuNzYyIDctMTIuNzYyIDd6Ii8+PC9zdmc+"
+}

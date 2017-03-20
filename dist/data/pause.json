@@ -1,0 +1,10 @@
+{
+  "name": "pause",
+  "viewBox": "0 0 32 32",
+  "path": [
+    {
+      "d": "M18.432 7.5h4.547v17h-4.547zM9.022 7.5h4.545v17H9.022z"
+    }
+  ],
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNMTguNDMyIDcuNWg0LjU0N3YxN2gtNC41NDd6TTkuMDIyIDcuNWg0LjU0NXYxN0g5LjAyMnoiLz48L3N2Zz4="
+}

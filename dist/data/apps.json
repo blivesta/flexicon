@@ -1,0 +1,10 @@
+{
+  "name": "apps",
+  "viewBox": "0 0 32 32",
+  "path": [
+    {
+      "d": "M6 11h5V6H6v5zm7.5 15h5v-5h-5v5zM6 26h5v-5H6v5zm0-7.5h5v-5H6v5zm7.5 0h5v-5h-5v5zM21 6v5h5V6h-5zm-7.5 5h5V6h-5v5zm7.5 7.5h5v-5h-5v5zm0 7.5h5v-5h-5v5z"
+    }
+  ],
+  "base64": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNNiAxMWg1VjZINnY1em03LjUgMTVoNXYtNWgtNXY1ek02IDI2aDV2LTVINnY1em0wLTcuNWg1di01SDZ2NXptNy41IDBoNXYtNWgtNXY1ek0yMSA2djVoNVY2aC01em0tNy41IDVoNVY2aC01djV6bTcuNSA3LjVoNXYtNWgtNXY1em0wIDcuNWg1di01aC01djV6Ii8+PC9zdmc+"
+}
