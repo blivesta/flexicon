@@ -4,13 +4,8 @@
   margin-top: -0.2em;
   width: 1em;
   height: 1em;
-  vertical-align:middle;
-}
-
-.icon--2x,
-.icon--3x,
-.icon--4x {
-  margin-top: 0;
+  vertical-align: middle;
+  overflow: hidden;
 }
 
 .icon--2x {
